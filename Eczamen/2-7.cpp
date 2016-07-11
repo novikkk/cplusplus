@@ -11,6 +11,7 @@ A& operator++(A& t, int a) {
 	t.x++;
 }
 
+
 void main(void) {
 	A a;
 	a++;
