@@ -22,5 +22,6 @@ void main(void) {
 	C2 b(1);
 	cout << a.get() << ' ';
 	cout << b.get() << endl;
-
 }
+
+//2 1
