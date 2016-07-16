@@ -13,8 +13,14 @@ public:
 	}
 };
 
+class C2 : virtual public C1 {
+protected:
+	int x;
+public:
+	C2(int x, int y) {
+
+	}
+};
 
 void main(void) {
-	C1 asddsa(1);
-	asddsa.Get();
 }

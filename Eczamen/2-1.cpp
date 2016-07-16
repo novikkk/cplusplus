@@ -9,3 +9,5 @@ int main(void) {
 	cout << a[2] << endl;
 	return 0;
 }
+
+//3
